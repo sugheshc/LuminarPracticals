@@ -1,0 +1,18 @@
+def add(num1,num2):
+    res=num1+num2
+    return res
+def sub(num1,num2):
+    res=num1-num2
+    return res
+def mul(num1,num2):
+    res=num1*num2
+    return res
+def div(num1,num2):
+    res=num1/num2
+    return res
+
+#data=add(34,42)
+#print(data)
+
+#divi=div(42,7)
+#print(divi)
